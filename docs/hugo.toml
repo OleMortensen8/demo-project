@@ -1,0 +1,11 @@
+baseURL = "https://olemortensen8.github.io/demo-project/"
+languageCode = "en-us"
+title = "Demo Project"
+theme = "ananke"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  description = "A demo Hugo site hosted on GitHub Pages"
+  author = "Ole Mortensen"
